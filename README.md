@@ -2,8 +2,6 @@
 
 This is an awesome Website
 
-
-
-now editing on update-readme Branch
+Updates made on master on Github before rebase
 
 
